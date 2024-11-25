@@ -9,3 +9,9 @@ Video tutorial qui: https://youtu.be/s_7UZaXF4Ug
 
 
 ![IMG_9129](https://github.com/user-attachments/assets/b85083d0-12dc-4e89-bd0e-8b0c2b528487)
+
+
+![EPXX-OraQuadra](https://github.com/user-attachments/assets/1172bae5-49bb-458f-9732-5703f82707ac)
+
+
+![IMG_9131](https://github.com/user-attachments/assets/ea74b668-1d8a-46f1-b658-bf9c43fbeae0)
