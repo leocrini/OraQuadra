@@ -1,0 +1,10 @@
+Per stampare il frontale con una stampante monocolore, potete usare questo truck:
+Da Alice, una volta fatto lo slicing, andate in preview e muovetevi con il cursore per selezionare il laser 3 e inserire una pausa, spostati quindi al laser 9 e posizionare un'altra pausa.
+
+Iniziare la stampa con il colore Nero, alla prima pausa al laser 3 , cambiare il colore e mettete il bianco, fino alla successiva pausa al laser 9, dove rimetterete il nero.
+
+In questo modo dovreste riuscire a stampare il tutto anche con una stampante monocolore.
+
+Nota:
+
+Verrà probabilmente un bordino bianco sulla cornice esterna, al limite lo colorate con un pennarello nero indelebile se vi infastidisce.
