@@ -1,4 +1,4 @@
-// OraQuadra V1.0
+// OraQuadra V1.1
 // By Davide Gatti SURVIVAL HACKING  www.survivalhacking.it
 //
 // Setup:
@@ -7,6 +7,7 @@
 // Pulsante 2 = per la regolazione deli minuti
 // Pulsante 1 + Pulsante 2 = cambio preset 0=Sfumato bianco  1-5=Scrittura lenta vari colori  6-10=Scrittira veloce vari colori
 //
+// Cambiati valori di luminosità di default per evitare che si bruci Arduino per l'eccessivo assorbimento della matrice LED 
 
 #include "RTClib.h"
 #include <Adafruit_NeoPixel.h>
@@ -17,8 +18,8 @@ RTC_DS3231 rtc;       // Istanza per usare l'RTC
 //Definizioni per neopixel
 #define PIN   4        // pin neopixel
 #define NUMPIXELS 256  // 16 x 16
-#define GIORNO 255     // full on
-#define NOTTE 55       // half on
+#define GIORNO 64     // Luminosità di giorno (Attenzione, non alzare troppo questo valore visto che la matrice è alimentata dall'arduino che potrebbe bruciarsi se esagerate)
+#define NOTTE 32       // Luminosità di notte
 
 Adafruit_NeoPixel strip(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 int intBrightness;
