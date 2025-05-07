@@ -1,4 +1,4 @@
-Modifiche rispetto al codice OraQaudra_V12:
+Modifiche del software OraQuadra_my rispetto al codice OraQaudra_V12:
 1) solo un pulsante
 2) aggiunta fotoresistenza per regolazione luminosità automatica
 3) aggiunti nuovi colori
