@@ -1,6 +1,6 @@
 Modifiche del software OraQuadra_my rispetto al codice OraQaudra_V12:
 1) solo un pulsante
-2) aggiunta fotoresistenza per regolazione luminosità automatica
+2) aggiunta fotoresistore per regolazione luminosità automatica
 3) aggiunti nuovi colori
 4) cambio veloce tra ora legale/solare
 5) aggiunto test di funzionamento di tutti i led della matrice al boot.
